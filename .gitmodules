@@ -1,0 +1,3 @@
+[submodule "prisma"]
+	path = prisma
+	url = git@bitbucket.org:roaminrabbitid/rabbit-data-migrations.git
